@@ -21,17 +21,16 @@ Other Skills: Git, GitHub, Stripe Integration, Cloudinary
 ---
 
 📈 Goals for 2025
-🌟 Contribute to open-source MERN projects
-🔍 Master advanced DSA and system design
-🚀 Build SaaS apps and digital tools for businesses
+* Contribute to open-source MERN projects
+* Master advanced DSA and system design
+* Build SaaS apps and digital tools for businesses
 
 ---
 
 📫 Let's Connect
-🌐 Portfolio: Coming Soon
-📩 Email: pradeepk48842@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/pradeep-kumar-48211a339/
+* Email: pradeepk48842@gmail.com
+* LinkedIn: https://www.linkedin.com/in/pradeep-kumar-48211a339/
 
 ---
-Thanks for visiting my profile!
+Thanks for visiting my profile! 
 Keep learning, keep building. 

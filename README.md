@@ -2,42 +2,27 @@
 
 # 👋 Hi, I'm Prdeep Kumar
 
-🚀 MERN Stack Developer  
-🔐 I build secure authentication systems with JWT & OTP verification  
+Full-Stack MERN Developer  
+I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects. 
 
 ---
 
-## 🛠️ Tech Stack
-- Node.js
-- Express.js
-- MongoDB
-- JWT
-- Nodemailer
+## 💻 Tech Stack
+Frontend: React.js, Next.js, Tailwind CSS, Redux, HTML, CSS, JavaScript
+Backend: Node.js, Express.js, MongoDB, REST APIs
+Authentication: JWT, NextAuth
+Other Skills: Git, GitHub, Stripe Integration, Cloudinary
 
----
+ Projects
+* Authentication System (JWT + OTP + Email Verification)
+* Blog Platform (JWT authentication with full CRUD operations)
 
-## 🚀 Projects
-- 🔐 Authentication System (JWT + OTP + Email Verification)
+📈 Goals for 2025
+🌟 Contribute to open-source MERN projects
+🔍 Master advanced DSA and system design
+🚀 Build SaaS apps and digital tools for businesses
 
----
-
-## 📫 Contact
-- Email: your@email.com
-
-- 
-<!--
-**prdeepkum1/prdeepkum1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+📫 Let's Connect
+🌐 Portfolio: Coming Soon
+📩 Email: pradeepk48842@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/pradeep-kumar-48211a339/
